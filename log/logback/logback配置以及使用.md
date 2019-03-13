@@ -1,5 +1,7 @@
-# logback 使用
-###一、logback.xml 配置
+logback 使用
+====
+一、logback.xml 配置
+----
 0. 将logback.xml文件放到resource目录下
 1. 标准输出配置：
     ```
@@ -102,7 +104,8 @@
         </logger>
     </configuration> 
     ```
-###二、springboot 整合lombok 使用 logback
+二、springboot 整合lombok 使用 logback
+----
 1. 使用默认日志输出
     ``` 
     @Service
