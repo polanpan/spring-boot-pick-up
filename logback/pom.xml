@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.polan</groupId>
-    <artifactId>logback-demo</artifactId>
+    <artifactId>logback</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>logback-demo</name>
+    <name>logback</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
