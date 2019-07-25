@@ -1,0 +1,9 @@
+﻿﻿server:
+  port: 16085
+  context-path: /
+spring:
+  application:
+    name: boot-web
+  test-starter:
+    name: youq
+    age: 28
