@@ -14,7 +14,6 @@ import org.apache.kafka.common.serialization.IntegerDeserializer;
 
 import java.util.Collections;
 import java.util.Properties;
-import java.util.concurrent.*;
 
 /**
  * <p> 消费者（多线程）</p>

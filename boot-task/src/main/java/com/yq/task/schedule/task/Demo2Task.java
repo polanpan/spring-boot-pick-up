@@ -10,8 +10,6 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Component;
 
-import java.util.concurrent.*;
-
 /**
  * <p> 测试，不建议一个类里面写多个定时，更倾向于一个定时写一个类，也看实际情况</p>
  * @author youq  2018/12/10 11:11

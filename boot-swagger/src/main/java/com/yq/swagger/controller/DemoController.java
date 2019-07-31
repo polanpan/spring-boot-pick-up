@@ -5,7 +5,6 @@ import com.yq.kernel.model.ResultData;
 import com.yq.swagger.controller.qo.UserQO;
 import io.swagger.annotations.*;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.web.bind.annotation.*;
 
 /**
  * <p>

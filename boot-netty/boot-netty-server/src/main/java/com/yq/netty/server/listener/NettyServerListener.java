@@ -1,11 +1,10 @@
 package com.yq.netty.server.listener;
 
+import com.yq.netty.commons.constants.NettyConstants;
 import com.yq.netty.commons.util.ObjectCodec;
 import com.yq.netty.server.adapter.ServerChannelHandlerAdapter;
 import com.yq.netty.server.config.NettyServerConfig;
-import com.yq.netty.commons.constants.NettyConstants;
 import io.netty.bootstrap.ServerBootstrap;
-import io.netty.channel.*;
 import io.netty.channel.nio.NioEventLoopGroup;
 import io.netty.channel.socket.SocketChannel;
 import io.netty.channel.socket.nio.NioServerSocketChannel;

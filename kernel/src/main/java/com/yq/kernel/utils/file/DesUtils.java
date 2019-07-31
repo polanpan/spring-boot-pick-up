@@ -7,7 +7,6 @@ import javax.crypto.Cipher;
 import javax.crypto.SecretKeyFactory;
 import javax.crypto.spec.DESKeySpec;
 import javax.crypto.spec.IvParameterSpec;
-import java.io.*;
 
 /**
  * <p> file des cbc加解密</p>

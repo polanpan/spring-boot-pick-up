@@ -3,16 +3,13 @@ package com.yq.kernel.utils;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.util.StringUtils;
 
-import javax.print.*;
 import javax.print.attribute.DocAttributeSet;
 import javax.print.attribute.HashDocAttributeSet;
 import javax.print.attribute.HashPrintRequestAttributeSet;
 import javax.print.attribute.PrintRequestAttributeSet;
 import javax.print.attribute.standard.Copies;
 import javax.print.attribute.standard.Sides;
-import javax.swing.*;
 import java.awt.print.PrinterJob;
-import java.io.*;
 
 /**
  * <p> 打印工具类 TODO 待验证</p>

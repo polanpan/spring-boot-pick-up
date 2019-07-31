@@ -1,7 +1,5 @@
 package com.yq.netty.commons.util;
 
-import java.io.*;
-
 /**
  * <p> 序列化工具</p>
  * @author youq  2019/4/19 16:50

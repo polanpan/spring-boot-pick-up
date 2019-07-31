@@ -3,7 +3,6 @@ package com.yq.easyexcel.model;
 import com.alibaba.excel.annotation.ExcelProperty;
 import com.alibaba.excel.metadata.BaseRowModel;
 import com.yq.kernel.utils.ObjectUtils;
-import lombok.*;
 
 /**
  * <p> 导入测试model</p>
