@@ -1,6 +1,5 @@
 package com.unioncloud.callability.kafka.consumer;
 
-import com.unioncloud.callability.common.proto.message.Fs2CaTopic;
 import com.unioncloud.callability.kafka.handler.Acd2CaConsumerHandler;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.kafka.clients.consumer.ConsumerRecord;
