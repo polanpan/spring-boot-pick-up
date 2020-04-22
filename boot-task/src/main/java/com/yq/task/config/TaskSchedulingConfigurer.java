@@ -1,4 +1,4 @@
-package com.yq.task.config;
+package com.polan.task.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.scheduling.annotation.SchedulingConfigurer;

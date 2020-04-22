@@ -1,12 +1,12 @@
-package com.yq.rabbitmq.controller;
+package com.polan.rabbitmq.controller;
 
-import com.yq.kernel.constants.GlobalConstants;
-import com.yq.kernel.constants.RabbitmqConstants;
-import com.yq.rabbitmq.entity.User;
-import com.yq.rabbitmq.mq.sender.CallBackSender;
-import com.yq.rabbitmq.mq.sender.FanoutSender;
-import com.yq.rabbitmq.mq.sender.Sender;
-import com.yq.rabbitmq.mq.sender.TopicSender;
+import com.polan.kernel.constants.GlobalConstants;
+import com.polan.kernel.constants.RabbitmqConstants;
+import com.polan.rabbitmq.entity.User;
+import com.polan.rabbitmq.mq.sender.CallBackSender;
+import com.polan.rabbitmq.mq.sender.FanoutSender;
+import com.polan.rabbitmq.mq.sender.Sender;
+import com.polan.rabbitmq.mq.sender.TopicSender;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

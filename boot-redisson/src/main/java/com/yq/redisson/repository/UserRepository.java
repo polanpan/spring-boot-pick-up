@@ -1,6 +1,6 @@
-package com.yq.redisson.repository;
+package com.polan.redisson.repository;
 
-import com.yq.redisson.db.User;
+import com.polan.redisson.db.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

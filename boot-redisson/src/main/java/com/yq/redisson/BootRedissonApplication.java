@@ -1,6 +1,6 @@
-package com.yq.redisson;
+package com.polan.redisson;
 
-import com.yq.redisop.EnableRedisOperate;
+import com.polan.redisop.EnableRedisOperate;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.system.ApplicationPidFileWriter;

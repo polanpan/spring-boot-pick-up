@@ -1,4 +1,4 @@
-package com.yq.redisop.config;
+package com.polan.redisop.config;
 
 import io.netty.channel.nio.NioEventLoopGroup;
 import lombok.Data;

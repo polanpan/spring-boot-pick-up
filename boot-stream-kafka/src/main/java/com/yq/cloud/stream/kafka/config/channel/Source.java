@@ -1,6 +1,6 @@
-package com.yq.cloud.stream.kafka.config.channel;
+package com.polan.cloud.stream.kafka.config.channel;
 
-import com.yq.kernel.constants.KafkaConstants;
+import com.polan.kernel.constants.KafkaConstants;
 import org.springframework.cloud.stream.annotation.Output;
 import org.springframework.messaging.MessageChannel;
 

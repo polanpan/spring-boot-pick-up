@@ -1,8 +1,8 @@
-package com.yq.redisop.dao;
+package com.polan.redisop.dao;
 
 import com.google.common.collect.Lists;
-import com.yq.kernel.constants.RedisKeyConstants;
-import com.yq.redisop.model.UserModel;
+import com.polan.kernel.constants.RedisKeyConstants;
+import com.polan.redisop.model.UserModel;
 import org.redisson.api.RMap;
 import org.redisson.api.RedissonClient;
 import org.springframework.beans.factory.annotation.Autowired;

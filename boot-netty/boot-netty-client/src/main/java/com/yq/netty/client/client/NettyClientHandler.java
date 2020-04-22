@@ -1,7 +1,7 @@
-package com.yq.netty.client.client;
+package com.polan.netty.client.client;
 
-import com.yq.netty.commons.constants.NettyConstants;
-import com.yq.netty.commons.util.ObjectCodec;
+import com.polan.netty.commons.constants.NettyConstants;
+import com.polan.netty.commons.util.ObjectCodec;
 import io.netty.channel.ChannelInitializer;
 import io.netty.channel.ChannelPipeline;
 import io.netty.channel.socket.SocketChannel;

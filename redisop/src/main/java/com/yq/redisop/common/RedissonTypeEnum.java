@@ -1,4 +1,4 @@
-package com.yq.redisop.common;
+package com.polan.redisop.common;
 
 /**
  * <p> redis类型</p>

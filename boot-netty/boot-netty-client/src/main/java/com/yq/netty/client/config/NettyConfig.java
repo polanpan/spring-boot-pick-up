@@ -1,6 +1,6 @@
-package com.yq.netty.client.config;
+package com.polan.netty.client.config;
 
-import com.yq.netty.client.util.NettyBeanScanner;
+import com.polan.netty.client.util.NettyBeanScanner;
 import lombok.Data;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.context.properties.ConfigurationProperties;

@@ -1,6 +1,6 @@
-package com.yq.mybatis.multi;
+package com.polan.mybatis.multi;
 
-import com.yq.kernel.constants.GlobalConstants;
+import com.polan.kernel.constants.GlobalConstants;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.system.ApplicationPidFileWriter;

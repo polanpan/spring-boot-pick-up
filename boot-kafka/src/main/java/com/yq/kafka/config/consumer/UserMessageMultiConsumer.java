@@ -1,9 +1,9 @@
-package com.yq.kafka.config.consumer;
+package com.polan.kafka.config.consumer;
 
 import com.google.common.util.concurrent.ThreadFactoryBuilder;
-import com.yq.kafka.config.handler.UserMessageHandler;
-import com.yq.kafka.config.serializer.UserMessageDeserializer;
-import com.yq.kafka.proto.user.UserMessage;
+import com.polan.kafka.config.handler.UserMessageHandler;
+import com.polan.kafka.config.serializer.UserMessageDeserializer;
+import com.polan.kafka.proto.user.UserMessage;
 import kafka.utils.ShutdownableThread;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.kafka.clients.consumer.ConsumerConfig;

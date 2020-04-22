@@ -1,4 +1,4 @@
-package com.yq.redisson.config;
+package com.polan.redisson.config;
 
 import org.springframework.boot.autoconfigure.domain.EntityScan;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceBuilder;

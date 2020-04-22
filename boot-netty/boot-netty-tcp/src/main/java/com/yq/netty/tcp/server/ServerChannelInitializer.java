@@ -1,6 +1,6 @@
-package com.yq.netty.tcp.server;
+package com.polan.netty.tcp.server;
 
-import com.yq.netty.commons.constants.NettyConstants;
+import com.polan.netty.commons.constants.NettyConstants;
 import io.netty.channel.ChannelInitializer;
 import io.netty.channel.ChannelPipeline;
 import io.netty.channel.socket.SocketChannel;

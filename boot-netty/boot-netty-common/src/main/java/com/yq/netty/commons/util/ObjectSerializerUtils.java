@@ -1,4 +1,4 @@
-package com.yq.netty.commons.util;
+package com.polan.netty.commons.util;
 
 /**
  * <p> 序列化工具</p>

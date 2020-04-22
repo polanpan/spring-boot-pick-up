@@ -1,4 +1,4 @@
-package com.yq.configclient.config;
+package com.polan.configclient.config;
 
 import org.springframework.boot.autoconfigure.domain.EntityScan;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceBuilder;

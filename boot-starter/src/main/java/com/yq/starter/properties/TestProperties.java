@@ -1,4 +1,4 @@
-package com.yq.starter.properties;
+package com.polan.starter.properties;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

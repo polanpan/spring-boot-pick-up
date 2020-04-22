@@ -1,4 +1,4 @@
-package com.yq.limit.config;
+package com.polan.limit.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

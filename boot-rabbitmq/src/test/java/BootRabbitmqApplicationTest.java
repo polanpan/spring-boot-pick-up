@@ -1,5 +1,5 @@
-import com.yq.rabbitmq.BootRabbitmqApplication;
-import com.yq.rabbitmq.mq.sender.Sender;
+import com.polan.rabbitmq.BootRabbitmqApplication;
+import com.polan.rabbitmq.mq.sender.Sender;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

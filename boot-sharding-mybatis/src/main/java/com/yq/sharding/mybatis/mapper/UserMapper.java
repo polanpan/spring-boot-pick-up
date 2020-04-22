@@ -1,6 +1,6 @@
-package com.yq.sharding.mybatis.mapper;
+package com.polan.sharding.mybatis.mapper;
 
-import com.yq.sharding.mybatis.entity.User;
+import com.polan.sharding.mybatis.entity.User;
 import org.apache.ibatis.annotations.Mapper;
 
 import java.util.List;

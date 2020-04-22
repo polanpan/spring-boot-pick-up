@@ -1,4 +1,4 @@
-package com.yq.limit.anno;
+package com.polan.limit.anno;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

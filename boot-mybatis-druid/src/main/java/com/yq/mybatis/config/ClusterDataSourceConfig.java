@@ -1,4 +1,4 @@
-package com.yq.mybatis.config;
+package com.polan.mybatis.config;
 
 import com.alibaba.druid.pool.DruidDataSource;
 import org.apache.ibatis.session.SqlSessionFactory;

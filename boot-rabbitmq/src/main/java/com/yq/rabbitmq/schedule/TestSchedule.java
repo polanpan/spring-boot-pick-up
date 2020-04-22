@@ -1,6 +1,6 @@
-package com.yq.rabbitmq.schedule;
+package com.polan.rabbitmq.schedule;
 
-import com.yq.rabbitmq.mq.sender.Sender;
+import com.polan.rabbitmq.mq.sender.Sender;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.scheduling.annotation.Scheduled;

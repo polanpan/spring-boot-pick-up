@@ -1,7 +1,7 @@
-package com.yq.web.service;
+package com.polan.web.service;
 
-import com.yq.web.entity.Book;
-import com.yq.web.repository.BookRepository;
+import com.polan.web.entity.Book;
+import com.polan.web.repository.BookRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,6 +1,6 @@
-package com.yq.limit.aspect;
+package com.polan.limit.aspect;
 
-import com.yq.limit.anno.RateLimit;
+import com.polan.limit.anno.RateLimit;
 import lombok.extern.slf4j.Slf4j;
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.annotation.Around;

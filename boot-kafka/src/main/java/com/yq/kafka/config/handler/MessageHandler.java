@@ -1,6 +1,6 @@
-package com.yq.kafka.config.handler;
+package com.polan.kafka.config.handler;
 
-import com.yq.kafka.proto.user.UserMessage;
+import com.polan.kafka.proto.user.UserMessage;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;
 

@@ -1,9 +1,9 @@
-package com.yq.kafka.controller;
+package com.polan.kafka.controller;
 
-import com.yq.kafka.proto.user.UserMessage;
-import com.yq.kafka.service.UserService;
-import com.yq.kernel.constants.GlobalConstants;
-import com.yq.kernel.utils.IdGen;
+import com.polan.kafka.proto.user.UserMessage;
+import com.polan.kafka.service.UserService;
+import com.polan.kernel.constants.GlobalConstants;
+import com.polan.kernel.utils.IdGen;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

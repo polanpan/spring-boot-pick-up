@@ -1,6 +1,6 @@
-package com.yq.rabbitmq.entity;
+package com.polan.rabbitmq.entity;
 
-import com.yq.kernel.utils.ObjectUtils;
+import com.polan.kernel.utils.ObjectUtils;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

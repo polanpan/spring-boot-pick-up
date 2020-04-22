@@ -1,8 +1,8 @@
-package com.yq.limit.controller;
+package com.polan.limit.controller;
 
-import com.yq.kernel.model.ResultData;
-import com.yq.kernel.utils.DateUtils;
-import com.yq.limit.anno.RateLimit;
+import com.polan.kernel.model.ResultData;
+import com.polan.kernel.utils.DateUtils;
+import com.polan.limit.anno.RateLimit;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.RedisTemplate;

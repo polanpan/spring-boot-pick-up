@@ -1,7 +1,7 @@
-package com.yq.mybatis.multi.service;
+package com.polan.mybatis.multi.service;
 
-import com.yq.mybatis.multi.entity.Student;
-import com.yq.mybatis.multi.mapper.db1.StudentMapper;
+import com.polan.mybatis.multi.entity.Student;
+import com.polan.mybatis.multi.mapper.db1.StudentMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

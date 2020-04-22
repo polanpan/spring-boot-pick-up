@@ -1,6 +1,6 @@
-package com.yq.sharding.jpa.repository;
+package com.polan.sharding.jpa.repository;
 
-import com.yq.sharding.jpa.entity.User;
+import com.polan.sharding.jpa.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

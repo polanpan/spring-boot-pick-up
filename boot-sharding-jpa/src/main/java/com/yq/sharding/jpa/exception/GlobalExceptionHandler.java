@@ -1,6 +1,6 @@
-package com.yq.sharding.jpa.exception;
+package com.polan.sharding.jpa.exception;
 
-import com.yq.kernel.model.ResultData;
+import com.polan.kernel.model.ResultData;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;

@@ -1,4 +1,4 @@
-package com.yq.zuul.filter;
+package com.polan.zuul.filter;
 
 import com.netflix.zuul.ZuulFilter;
 import com.netflix.zuul.context.RequestContext;

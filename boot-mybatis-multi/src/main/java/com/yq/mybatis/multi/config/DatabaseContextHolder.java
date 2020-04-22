@@ -1,4 +1,4 @@
-package com.yq.mybatis.multi.config;
+package com.polan.mybatis.multi.config;
 
 /**
  * <p> 保存一个线程安全的DatabaseTypeEnum容器</p>

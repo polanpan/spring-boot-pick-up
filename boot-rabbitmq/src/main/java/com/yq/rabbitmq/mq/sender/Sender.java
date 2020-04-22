@@ -1,7 +1,7 @@
-package com.yq.rabbitmq.mq.sender;
+package com.polan.rabbitmq.mq.sender;
 
-import com.yq.kernel.constants.RabbitmqConstants;
-import com.yq.rabbitmq.entity.User;
+import com.polan.kernel.constants.RabbitmqConstants;
+import com.polan.rabbitmq.entity.User;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.amqp.core.AmqpTemplate;
 import org.springframework.beans.factory.annotation.Autowired;

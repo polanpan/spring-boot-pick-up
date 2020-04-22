@@ -1,8 +1,8 @@
-package com.yq.swagger.controller;
+package com.polan.swagger.controller;
 
-import com.yq.kernel.enu.SexEnum;
-import com.yq.kernel.model.ResultData;
-import com.yq.swagger.controller.qo.UserQO;
+import com.polan.kernel.enu.SexEnum;
+import com.polan.kernel.model.ResultData;
+import com.polan.swagger.controller.qo.UserQO;
 import io.swagger.annotations.*;
 import lombok.extern.slf4j.Slf4j;
 

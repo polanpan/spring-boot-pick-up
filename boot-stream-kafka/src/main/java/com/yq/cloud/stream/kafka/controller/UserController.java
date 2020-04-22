@@ -1,9 +1,9 @@
-package com.yq.cloud.stream.kafka.controller;
+package com.polan.cloud.stream.kafka.controller;
 
-import com.yq.cloud.stream.kafka.model.UserModel;
-import com.yq.cloud.stream.kafka.service.UserService;
-import com.yq.kernel.constants.GlobalConstants;
-import com.yq.kernel.enu.SexEnum;
+import com.polan.cloud.stream.kafka.model.UserModel;
+import com.polan.cloud.stream.kafka.service.UserService;
+import com.polan.kernel.constants.GlobalConstants;
+import com.polan.kernel.enu.SexEnum;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,7 +1,7 @@
-package com.yq.mybatis.service;
+package com.polan.mybatis.service;
 
-import com.yq.mybatis.entity.User;
-import com.yq.mybatis.mapper.UserMapper;
+import com.polan.mybatis.entity.User;
+import com.polan.mybatis.mapper.UserMapper;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

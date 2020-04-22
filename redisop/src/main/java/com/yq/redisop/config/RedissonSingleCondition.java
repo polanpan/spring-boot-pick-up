@@ -1,6 +1,6 @@
-package com.yq.redisop.config;
+package com.polan.redisop.config;
 
-import com.yq.redisop.common.RedissonTypeEnum;
+import com.polan.redisop.common.RedissonTypeEnum;
 import org.springframework.context.annotation.Condition;
 import org.springframework.context.annotation.ConditionContext;
 import org.springframework.context.annotation.Configuration;

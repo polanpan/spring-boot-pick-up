@@ -1,4 +1,4 @@
-package com.yq.rabbitmq;
+package com.polan.rabbitmq;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

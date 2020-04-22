@@ -1,4 +1,4 @@
-package com.yq.netty.commons.util;
+package com.polan.netty.commons.util;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.Unpooled;

@@ -1,6 +1,6 @@
-package com.yq.mybatis.mapper;
+package com.polan.mybatis.mapper;
 
-import com.yq.mybatis.entity.User;
+import com.polan.mybatis.entity.User;
 import org.springframework.stereotype.Repository;
 import tk.mybatis.mapper.common.Mapper;
 

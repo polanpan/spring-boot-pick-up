@@ -1,6 +1,6 @@
-package com.yq.mybatis.entity;
+package com.polan.mybatis.entity;
 
-import com.yq.kernel.enu.SexEnum;
+import com.polan.kernel.enu.SexEnum;
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.Setter;

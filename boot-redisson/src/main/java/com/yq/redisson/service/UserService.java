@@ -1,7 +1,7 @@
-package com.yq.redisson.service;
+package com.polan.redisson.service;
 
-import com.yq.redisson.db.User;
-import com.yq.redisson.repository.UserRepository;
+import com.polan.redisson.db.User;
+import com.polan.redisson.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

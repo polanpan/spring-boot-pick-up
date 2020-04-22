@@ -1,7 +1,7 @@
-package com.yq.web.controller;
+package com.polan.web.controller;
 
-import com.yq.kernel.model.ResultData;
-import com.yq.starter.service.TestService;
+import com.polan.kernel.model.ResultData;
+import com.polan.starter.service.TestService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

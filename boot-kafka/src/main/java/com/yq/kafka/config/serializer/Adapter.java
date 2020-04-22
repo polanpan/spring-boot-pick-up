@@ -1,4 +1,4 @@
-package com.yq.kafka.config.serializer;
+package com.polan.kafka.config.serializer;
 
 import java.util.Map;
 

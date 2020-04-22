@@ -1,6 +1,6 @@
-package com.yq.sharding.jpa.entity;
+package com.polan.sharding.jpa.entity;
 
-import com.yq.kernel.enu.SexEnum;
+import com.polan.kernel.enu.SexEnum;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

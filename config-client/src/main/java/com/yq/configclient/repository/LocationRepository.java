@@ -1,6 +1,6 @@
-package com.yq.configclient.repository;
+package com.polan.configclient.repository;
 
-import com.yq.configclient.db.Location;
+import com.polan.configclient.db.Location;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

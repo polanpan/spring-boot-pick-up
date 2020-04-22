@@ -1,4 +1,4 @@
-package com.yq.kafka;
+package com.polan.kafka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

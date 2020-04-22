@@ -1,4 +1,4 @@
-package com.yq.netty.commons.exception;
+package com.polan.netty.commons.exception;
 
 /**
  * <p> 没有可用的通道异常</p>

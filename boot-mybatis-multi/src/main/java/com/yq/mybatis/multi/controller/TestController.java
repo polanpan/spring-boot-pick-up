@@ -1,10 +1,10 @@
-package com.yq.mybatis.multi.controller;
+package com.polan.mybatis.multi.controller;
 
-import com.yq.kernel.model.ResultData;
-import com.yq.mybatis.multi.entity.School;
-import com.yq.mybatis.multi.entity.Student;
-import com.yq.mybatis.multi.service.SchoolService;
-import com.yq.mybatis.multi.service.StudentService;
+import com.polan.kernel.model.ResultData;
+import com.polan.mybatis.multi.entity.School;
+import com.polan.mybatis.multi.entity.Student;
+import com.polan.mybatis.multi.service.SchoolService;
+import com.polan.mybatis.multi.service.StudentService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

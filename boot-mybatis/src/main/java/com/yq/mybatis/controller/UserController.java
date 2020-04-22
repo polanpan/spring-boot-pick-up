@@ -1,9 +1,9 @@
-package com.yq.mybatis.controller;
+package com.polan.mybatis.controller;
 
-import com.yq.kernel.enu.SexEnum;
-import com.yq.kernel.model.ResultData;
-import com.yq.mybatis.entity.User;
-import com.yq.mybatis.service.UserService;
+import com.polan.kernel.enu.SexEnum;
+import com.polan.kernel.model.ResultData;
+import com.polan.mybatis.entity.User;
+import com.polan.mybatis.service.UserService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

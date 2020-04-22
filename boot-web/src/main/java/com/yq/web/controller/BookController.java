@@ -1,7 +1,7 @@
-package com.yq.web.controller;
+package com.polan.web.controller;
 
-import com.yq.web.entity.Book;
-import com.yq.web.service.BookService;
+import com.polan.web.entity.Book;
+import com.polan.web.service.BookService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

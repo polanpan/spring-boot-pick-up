@@ -1,8 +1,8 @@
-package com.yq.netty.tcp.controller;
+package com.polan.netty.tcp.controller;
 
-import com.yq.kernel.constants.GlobalConstants;
-import com.yq.netty.tcp.client.NettyTcpClient;
-import com.yq.netty.tcp.client.ServerChannelManager;
+import com.polan.kernel.constants.GlobalConstants;
+import com.polan.netty.tcp.client.NettyTcpClient;
+import com.polan.netty.tcp.client.ServerChannelManager;
 import io.netty.channel.Channel;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

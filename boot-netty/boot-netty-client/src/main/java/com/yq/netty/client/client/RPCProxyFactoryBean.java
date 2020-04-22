@@ -1,10 +1,10 @@
-package com.yq.netty.client.client;
+package com.polan.netty.client.client;
 
-import com.yq.kernel.utils.IdGen;
-import com.yq.netty.client.util.ChannelUtil;
-import com.yq.netty.client.util.WrapMethodUtils;
-import com.yq.netty.commons.entity.MethodInvokeMeta;
-import com.yq.netty.commons.exception.ErrorParamsException;
+import com.polan.kernel.utils.IdGen;
+import com.polan.netty.client.util.ChannelUtil;
+import com.polan.netty.client.util.WrapMethodUtils;
+import com.polan.netty.commons.entity.MethodInvokeMeta;
+import com.polan.netty.commons.exception.ErrorParamsException;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.config.AbstractFactoryBean;
 

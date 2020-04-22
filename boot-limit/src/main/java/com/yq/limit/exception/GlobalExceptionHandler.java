@@ -1,6 +1,6 @@
-package com.yq.limit.exception;
+package com.polan.limit.exception;
 
-import com.yq.kernel.model.ResultData;
+import com.polan.kernel.model.ResultData;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;

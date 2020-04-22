@@ -1,4 +1,4 @@
-package com.yq.sharding.mybatis.entity;
+package com.polan.sharding.mybatis.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

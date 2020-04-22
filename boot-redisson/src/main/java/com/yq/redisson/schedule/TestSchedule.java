@@ -1,9 +1,9 @@
-package com.yq.redisson.schedule;
+package com.polan.redisson.schedule;
 
-import com.yq.redisop.model.UserModel;
-import com.yq.redisop.service.UserRedisService;
-import com.yq.redisson.db.User;
-import com.yq.redisson.service.UserService;
+import com.polan.redisop.model.UserModel;
+import com.polan.redisop.service.UserRedisService;
+import com.polan.redisson.db.User;
+import com.polan.redisson.service.UserService;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.collections.CollectionUtils;
 import org.springframework.beans.BeanUtils;

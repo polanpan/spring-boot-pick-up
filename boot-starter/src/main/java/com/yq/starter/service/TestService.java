@@ -1,6 +1,6 @@
-package com.yq.starter.service;
+package com.polan.starter.service;
 
-import com.yq.starter.properties.TestProperties;
+import com.polan.starter.properties.TestProperties;
 
 /**
  * <p> service</p>

@@ -1,6 +1,6 @@
-package com.yq.netty.client.util;
+package com.polan.netty.client.util;
 
-import com.yq.netty.commons.entity.MethodInvokeMeta;
+import com.polan.netty.commons.entity.MethodInvokeMeta;
 import org.springframework.beans.BeansException;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.ApplicationContextAware;

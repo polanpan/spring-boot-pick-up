@@ -1,6 +1,6 @@
-package com.yq.cloud.stream.kafka.config.producer;
+package com.polan.cloud.stream.kafka.config.producer;
 
-import com.yq.cloud.stream.kafka.config.channel.Source;
+import com.polan.cloud.stream.kafka.config.channel.Source;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.stream.annotation.EnableBinding;

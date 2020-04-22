@@ -1,4 +1,4 @@
-package com.yq.netty;
+package com.polan.netty;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

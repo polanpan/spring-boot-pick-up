@@ -1,8 +1,8 @@
-package com.yq.netty.server.service;
+package com.polan.netty.server.service;
 
-import com.yq.netty.commons.entity.User;
-import com.yq.netty.commons.exception.ErrorParamsException;
-import com.yq.netty.rpc.DemoService;
+import com.polan.netty.commons.entity.User;
+import com.polan.netty.commons.exception.ErrorParamsException;
+import com.polan.netty.rpc.DemoService;
 import org.springframework.stereotype.Service;
 
 /**

@@ -1,8 +1,8 @@
-package com.yq.netty.rpc;
+package com.polan.netty.rpc;
 
 
-import com.yq.netty.commons.entity.User;
-import com.yq.netty.commons.exception.ErrorParamsException;
+import com.polan.netty.commons.entity.User;
+import com.polan.netty.commons.exception.ErrorParamsException;
 
 /**
  * <p> 测试Service</p>

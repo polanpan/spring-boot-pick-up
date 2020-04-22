@@ -1,4 +1,4 @@
-package com.yq.mybatis.entity;
+package com.polan.mybatis.entity;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.EqualsAndHashCode;

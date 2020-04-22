@@ -1,6 +1,6 @@
-package com.yq.limit;
+package com.polan.limit;
 
-import com.yq.kernel.constants.GlobalConstants;
+import com.polan.kernel.constants.GlobalConstants;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.context.ApplicationPidFileWriter;

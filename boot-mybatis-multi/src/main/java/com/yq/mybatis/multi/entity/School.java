@@ -1,4 +1,4 @@
-package com.yq.mybatis.multi.entity;
+package com.polan.mybatis.multi.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

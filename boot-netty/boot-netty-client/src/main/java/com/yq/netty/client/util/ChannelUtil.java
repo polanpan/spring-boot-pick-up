@@ -1,7 +1,7 @@
-package com.yq.netty.client.util;
+package com.polan.netty.client.util;
 
-import com.yq.netty.commons.entity.MethodInvokeMeta;
-import com.yq.netty.commons.exception.NoUseableChannel;
+import com.polan.netty.commons.entity.MethodInvokeMeta;
+import com.polan.netty.commons.exception.NoUseableChannel;
 import io.netty.channel.Channel;
 import io.netty.channel.ChannelId;
 import lombok.extern.slf4j.Slf4j;

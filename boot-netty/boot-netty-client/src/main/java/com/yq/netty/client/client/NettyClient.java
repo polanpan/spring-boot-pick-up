@@ -1,6 +1,6 @@
-package com.yq.netty.client.client;
+package com.polan.netty.client.client;
 
-import com.yq.netty.commons.constants.NettyConstants;
+import com.polan.netty.commons.constants.NettyConstants;
 import io.netty.bootstrap.Bootstrap;
 import io.netty.channel.ChannelFuture;
 import io.netty.channel.EventLoopGroup;

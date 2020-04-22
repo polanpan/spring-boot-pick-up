@@ -1,4 +1,4 @@
-package com.yq.netty.tcp.server;
+package com.polan.netty.tcp.server;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;

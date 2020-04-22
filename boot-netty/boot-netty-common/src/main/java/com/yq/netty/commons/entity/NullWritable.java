@@ -1,4 +1,4 @@
-package com.yq.netty.commons.entity;
+package com.polan.netty.commons.entity;
 
 import lombok.Data;
 

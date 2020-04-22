@@ -1,6 +1,6 @@
-package com.yq.swagger.controller.qo;
+package com.polan.swagger.controller.qo;
 
-import com.yq.kernel.enu.SexEnum;
+import com.polan.kernel.enu.SexEnum;
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
 import lombok.AllArgsConstructor;

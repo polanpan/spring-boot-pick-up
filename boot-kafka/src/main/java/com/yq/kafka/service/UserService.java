@@ -1,7 +1,7 @@
-package com.yq.kafka.service;
+package com.polan.kafka.service;
 
-import com.yq.kafka.config.producer.UserMessageProducer;
-import com.yq.kafka.proto.user.UserMessage;
+import com.polan.kafka.config.producer.UserMessageProducer;
+import com.polan.kafka.proto.user.UserMessage;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

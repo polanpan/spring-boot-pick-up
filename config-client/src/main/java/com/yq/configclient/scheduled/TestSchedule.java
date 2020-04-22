@@ -1,7 +1,7 @@
-package com.yq.configclient.scheduled;
+package com.polan.configclient.scheduled;
 
-import com.yq.configclient.db.Location;
-import com.yq.configclient.repository.LocationRepository;
+import com.polan.configclient.db.Location;
+import com.polan.configclient.repository.LocationRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;

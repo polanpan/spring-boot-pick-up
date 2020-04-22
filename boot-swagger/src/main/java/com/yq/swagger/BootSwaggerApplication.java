@@ -1,6 +1,6 @@
-package com.yq.swagger;
+package com.polan.swagger;
 
-import com.yq.kernel.constants.GlobalConstants;
+import com.polan.kernel.constants.GlobalConstants;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.system.ApplicationPidFileWriter;

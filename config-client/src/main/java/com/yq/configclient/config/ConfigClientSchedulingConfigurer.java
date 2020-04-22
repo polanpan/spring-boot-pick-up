@@ -1,4 +1,4 @@
-package com.yq.configclient.config;
+package com.polan.configclient.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.scheduling.annotation.SchedulingConfigurer;

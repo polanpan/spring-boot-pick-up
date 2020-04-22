@@ -1,4 +1,4 @@
-package com.yq.netty.tcp.server;
+package com.polan.netty.tcp.server;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.Channel;

@@ -1,4 +1,4 @@
-package com.yq.configclient.db;
+package com.polan.configclient.db;
 
 import lombok.EqualsAndHashCode;
 import lombok.Getter;

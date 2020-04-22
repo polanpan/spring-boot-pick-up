@@ -1,4 +1,4 @@
-package com.yq.netty.tcp.client;
+package com.polan.netty.tcp.client;
 
 import io.netty.channel.ChannelHandler;
 import io.netty.channel.ChannelHandlerContext;

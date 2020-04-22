@@ -1,4 +1,4 @@
-package com.yq.redisson.config;
+package com.polan.redisson.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.scheduling.annotation.SchedulingConfigurer;

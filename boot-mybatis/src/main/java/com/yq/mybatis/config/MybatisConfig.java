@@ -1,4 +1,4 @@
-package com.yq.mybatis.config;
+package com.polan.mybatis.config;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.context.annotation.Configuration;

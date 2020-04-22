@@ -1,10 +1,10 @@
-package com.yq.kafka.config;
+package com.polan.kafka.config;
 
-import com.yq.kafka.config.consumer.UserMessageMultiConsumer;
-import com.yq.kafka.config.consumer.UserMessageSingleConsumer;
-import com.yq.kafka.config.handler.MessageHandler;
-import com.yq.kafka.config.serializer.UserMessageSerializer;
-import com.yq.kafka.proto.user.UserMessage;
+import com.polan.kafka.config.consumer.UserMessageMultiConsumer;
+import com.polan.kafka.config.consumer.UserMessageSingleConsumer;
+import com.polan.kafka.config.handler.MessageHandler;
+import com.polan.kafka.config.serializer.UserMessageSerializer;
+import com.polan.kafka.proto.user.UserMessage;
 import org.apache.kafka.clients.producer.KafkaProducer;
 import org.apache.kafka.common.serialization.IntegerSerializer;
 import org.springframework.beans.factory.annotation.Autowired;

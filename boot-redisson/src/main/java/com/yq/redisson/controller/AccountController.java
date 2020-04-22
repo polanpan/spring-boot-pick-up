@@ -1,9 +1,9 @@
-package com.yq.redisson.controller;
+package com.polan.redisson.controller;
 
 import com.google.common.util.concurrent.ThreadFactoryBuilder;
-import com.yq.kernel.model.ResultData;
-import com.yq.redisop.model.AccountModel;
-import com.yq.redisop.service.AccountRedisService;
+import com.polan.kernel.model.ResultData;
+import com.polan.redisop.model.AccountModel;
+import com.polan.redisop.service.AccountRedisService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

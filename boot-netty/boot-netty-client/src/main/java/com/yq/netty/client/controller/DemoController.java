@@ -1,7 +1,7 @@
-package com.yq.netty.client.controller;
+package com.polan.netty.client.controller;
 
-import com.yq.netty.commons.entity.User;
-import com.yq.netty.rpc.DemoService;
+import com.polan.netty.commons.entity.User;
+import com.polan.netty.rpc.DemoService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;
 

@@ -1,7 +1,7 @@
-package com.yq.kafka.config.serializer;
+package com.polan.kafka.config.serializer;
 
 import com.google.protobuf.InvalidProtocolBufferException;
-import com.yq.kafka.proto.user.UserMessage;
+import com.polan.kafka.proto.user.UserMessage;
 import org.apache.kafka.common.serialization.Deserializer;
 
 /**

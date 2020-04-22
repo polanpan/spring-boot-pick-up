@@ -1,8 +1,8 @@
-package com.yq.sharding.mybatis.controller;
+package com.polan.sharding.mybatis.controller;
 
-import com.yq.kernel.model.ResultData;
-import com.yq.sharding.mybatis.entity.Address;
-import com.yq.sharding.mybatis.mapper.AddressMapper;
+import com.polan.kernel.model.ResultData;
+import com.polan.sharding.mybatis.entity.Address;
+import com.polan.sharding.mybatis.mapper.AddressMapper;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;

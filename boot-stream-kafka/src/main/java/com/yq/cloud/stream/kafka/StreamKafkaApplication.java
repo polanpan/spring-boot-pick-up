@@ -1,4 +1,4 @@
-package com.yq.cloud.stream.kafka;
+package com.polan.cloud.stream.kafka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

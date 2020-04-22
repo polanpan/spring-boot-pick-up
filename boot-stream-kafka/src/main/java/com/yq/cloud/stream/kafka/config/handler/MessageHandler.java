@@ -1,6 +1,6 @@
-package com.yq.cloud.stream.kafka.config.handler;
+package com.polan.cloud.stream.kafka.config.handler;
 
-import com.yq.cloud.stream.kafka.model.UserModel;
+import com.polan.cloud.stream.kafka.model.UserModel;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;
 

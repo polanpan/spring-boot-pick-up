@@ -1,9 +1,9 @@
-package com.yq.cloud.stream.kafka.config.consumer;
+package com.polan.cloud.stream.kafka.config.consumer;
 
-import com.yq.cloud.stream.kafka.config.channel.Sink;
-import com.yq.cloud.stream.kafka.config.handler.MessageHandler;
-import com.yq.cloud.stream.kafka.model.UserModel;
-import com.yq.kernel.utils.ObjectUtils;
+import com.polan.cloud.stream.kafka.config.channel.Sink;
+import com.polan.cloud.stream.kafka.config.handler.MessageHandler;
+import com.polan.cloud.stream.kafka.model.UserModel;
+import com.polan.kernel.utils.ObjectUtils;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.stream.annotation.EnableBinding;

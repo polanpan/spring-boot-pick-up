@@ -1,7 +1,7 @@
-package com.yq.redisson.controller;
+package com.polan.redisson.controller;
 
-import com.yq.redisop.model.UserModel;
-import com.yq.redisop.service.UserRedisService;
+import com.polan.redisop.model.UserModel;
+import com.polan.redisop.service.UserRedisService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

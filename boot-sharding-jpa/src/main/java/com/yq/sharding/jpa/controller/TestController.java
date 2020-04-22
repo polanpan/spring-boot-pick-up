@@ -1,11 +1,11 @@
-package com.yq.sharding.jpa.controller;
+package com.polan.sharding.jpa.controller;
 
 import com.google.common.collect.Lists;
-import com.yq.kernel.enu.SexEnum;
-import com.yq.kernel.model.ResultData;
-import com.yq.kernel.utils.snowflake.SnowFlake;
-import com.yq.sharding.jpa.entity.User;
-import com.yq.sharding.jpa.repository.UserRepository;
+import com.polan.kernel.enu.SexEnum;
+import com.polan.kernel.model.ResultData;
+import com.polan.kernel.utils.snowflake.SnowFlake;
+import com.polan.sharding.jpa.entity.User;
+import com.polan.sharding.jpa.repository.UserRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;

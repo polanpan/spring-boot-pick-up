@@ -1,6 +1,6 @@
-package com.yq.mybatis.exception;
+package com.polan.mybatis.exception;
 
-import com.yq.kernel.model.ResultData;
+import com.polan.kernel.model.ResultData;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;

@@ -1,9 +1,9 @@
-package com.yq.task.schedule.task;
+package com.polan.task.schedule.task;
 
 import com.google.common.util.concurrent.ThreadFactoryBuilder;
-import com.yq.task.pool.MyRejectedExecutionHandler;
-import com.yq.task.schedule.thread.TakeArgsThread;
-import com.yq.task.service.TaskService;
+import com.polan.task.pool.MyRejectedExecutionHandler;
+import com.polan.task.schedule.thread.TakeArgsThread;
+import com.polan.task.service.TaskService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;

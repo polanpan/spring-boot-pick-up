@@ -1,4 +1,4 @@
-package com.yq.mybatis.multi.config;
+package com.polan.mybatis.multi.config;
 
 /**
  * <p> 数据源类型</p>

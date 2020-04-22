@@ -1,6 +1,6 @@
-package com.yq.web.repository;
+package com.polan.web.repository;
 
-import com.yq.web.entity.Book;
+import com.polan.web.entity.Book;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

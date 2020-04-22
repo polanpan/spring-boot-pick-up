@@ -1,4 +1,4 @@
-package com.yq.web.entity;
+package com.polan.web.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

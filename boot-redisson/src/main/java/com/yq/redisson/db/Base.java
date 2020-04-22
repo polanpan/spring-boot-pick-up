@@ -1,4 +1,4 @@
-package com.yq.redisson.db;
+package com.polan.redisson.db;
 
 import lombok.EqualsAndHashCode;
 import lombok.Getter;

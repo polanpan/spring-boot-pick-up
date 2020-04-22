@@ -1,7 +1,7 @@
-package com.yq.redisop.service;
+package com.polan.redisop.service;
 
-import com.yq.redisop.dao.UserRedisDao;
-import com.yq.redisop.model.UserModel;
+import com.polan.redisop.dao.UserRedisDao;
+import com.polan.redisop.model.UserModel;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,7 +1,7 @@
-package com.yq.starter.config;
+package com.polan.starter.config;
 
-import com.yq.starter.properties.TestProperties;
-import com.yq.starter.service.TestService;
+import com.polan.starter.properties.TestProperties;
+import com.polan.starter.service.TestService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnClass;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;

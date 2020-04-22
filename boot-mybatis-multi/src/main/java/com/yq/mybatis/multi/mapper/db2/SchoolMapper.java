@@ -1,6 +1,6 @@
-package com.yq.mybatis.multi.mapper.db2;
+package com.polan.mybatis.multi.mapper.db2;
 
-import com.yq.mybatis.multi.entity.School;
+import com.polan.mybatis.multi.entity.School;
 
 /**
  * <p> 学校信息Mapper</p>

@@ -1,6 +1,6 @@
-package com.yq.netty.server.config;
+package com.polan.netty.server.config;
 
-import com.yq.netty.server.listener.NettyServerListener;
+import com.polan.netty.server.listener.NettyServerListener;
 import lombok.Data;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;

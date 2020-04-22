@@ -1,8 +1,8 @@
-package com.yq.netty.client.listener;
+package com.polan.netty.client.listener;
 
-import com.yq.netty.client.client.NettyClient;
-import com.yq.netty.client.config.NettyConfig;
-import com.yq.netty.client.controller.DemoController;
+import com.polan.netty.client.client.NettyClient;
+import com.polan.netty.client.config.NettyConfig;
+import com.polan.netty.client.controller.DemoController;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.core.annotation.Order;

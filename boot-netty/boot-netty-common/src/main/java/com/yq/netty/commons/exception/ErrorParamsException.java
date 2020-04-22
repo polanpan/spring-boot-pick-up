@@ -1,4 +1,4 @@
-package com.yq.netty.commons.exception;
+package com.polan.netty.commons.exception;
 
 /**
  * <p> 参数错误异常</p>

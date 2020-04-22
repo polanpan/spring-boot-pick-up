@@ -1,8 +1,8 @@
-package com.yq.cloud.stream.kafka.service;
+package com.polan.cloud.stream.kafka.service;
 
-import com.yq.cloud.stream.kafka.config.producer.MessageProducer;
-import com.yq.cloud.stream.kafka.model.UserModel;
-import com.yq.kernel.utils.ObjectUtils;
+import com.polan.cloud.stream.kafka.config.producer.MessageProducer;
+import com.polan.cloud.stream.kafka.model.UserModel;
+import com.polan.kernel.utils.ObjectUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

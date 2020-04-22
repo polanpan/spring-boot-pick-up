@@ -1,6 +1,6 @@
-package com.yq.task.pool;
+package com.polan.task.pool;
 
-import com.yq.task.schedule.thread.TakeArgsThread;
+import com.polan.task.schedule.thread.TakeArgsThread;
 import lombok.extern.slf4j.Slf4j;
 
 import java.util.concurrent.RejectedExecutionHandler;

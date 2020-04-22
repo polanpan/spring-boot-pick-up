@@ -1,4 +1,4 @@
-package com.yq.mybatis;
+package com.polan.mybatis;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

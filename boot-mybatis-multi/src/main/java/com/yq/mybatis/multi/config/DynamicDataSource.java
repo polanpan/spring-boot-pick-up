@@ -1,4 +1,4 @@
-package com.yq.mybatis.multi.config;
+package com.polan.mybatis.multi.config;
 
 import com.sun.istack.internal.Nullable;
 import org.springframework.jdbc.datasource.lookup.AbstractRoutingDataSource;

@@ -1,4 +1,4 @@
-package com.yq.redisop.model;
+package com.polan.redisop.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
